@@ -1,11 +1,16 @@
 pipeline {
     agent any
     parameters {
-        string (name:'BRANCH',
-        defaultValue: 'master',
-        description: 'Branch SVC Git')
+        string (name:'test',
+        defaultValue: 'hello',
+        description: 'test string in git')
     }
     stages {
+        stage('test param') {
+            steps {
+                bat 'echo ${params.test}'
+            }
+        } 
         stage('Restore') {
             steps {
                 bat 'dotnet restore'
