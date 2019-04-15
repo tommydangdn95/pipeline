@@ -1,9 +1,14 @@
 pipeline {
     agent any
     stages {
-        stage('One') {
+        stage('Restore') {
             steps {
-                bat 'echo %PATH%'
+                bat 'dotnet restore'
+            }
+        } 
+        stage('Build') {
+            steps {
+                bat 'dotnet build'
             }
         }
     }
