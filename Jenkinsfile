@@ -1,5 +1,10 @@
 pipeline {
     agent any
+    parameters {
+        string (name:'BRANCH',
+        defaultValue: 'master',
+        description: 'Branch SVC Git')
+    }
     stages {
         stage('Restore') {
             steps {
