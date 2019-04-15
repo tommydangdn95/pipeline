@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('test param') {
             steps {
-                bat 'echo ${params.test}'
+                echo "Active test is now ${params.test}"
             }
         } 
         stage('Restore') {
