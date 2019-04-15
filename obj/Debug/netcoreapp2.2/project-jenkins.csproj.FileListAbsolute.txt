@@ -1,0 +1,14 @@
+D:\Sample\project-jenkins\bin\Debug\netcoreapp2.2\project-jenkins.deps.json
+D:\Sample\project-jenkins\bin\Debug\netcoreapp2.2\project-jenkins.runtimeconfig.json
+D:\Sample\project-jenkins\bin\Debug\netcoreapp2.2\project-jenkins.runtimeconfig.dev.json
+D:\Sample\project-jenkins\bin\Debug\netcoreapp2.2\project-jenkins.dll
+D:\Sample\project-jenkins\bin\Debug\netcoreapp2.2\project-jenkins.pdb
+D:\Sample\project-jenkins\obj\Debug\netcoreapp2.2\project-jenkins.csprojAssemblyReference.cache
+D:\Sample\project-jenkins\obj\Debug\netcoreapp2.2\project-jenkins.csproj.CoreCompileInputs.cache
+D:\Sample\project-jenkins\obj\Debug\netcoreapp2.2\project-jenkins.RazorAssemblyInfo.cache
+D:\Sample\project-jenkins\obj\Debug\netcoreapp2.2\project-jenkins.RazorAssemblyInfo.cs
+D:\Sample\project-jenkins\obj\Debug\netcoreapp2.2\project-jenkins.AssemblyInfoInputs.cache
+D:\Sample\project-jenkins\obj\Debug\netcoreapp2.2\project-jenkins.AssemblyInfo.cs
+D:\Sample\project-jenkins\obj\Debug\netcoreapp2.2\project-jenkins.RazorTargetAssemblyInfo.cache
+D:\Sample\project-jenkins\obj\Debug\netcoreapp2.2\project-jenkins.dll
+D:\Sample\project-jenkins\obj\Debug\netcoreapp2.2\project-jenkins.pdb
